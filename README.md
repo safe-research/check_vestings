@@ -1,6 +1,6 @@
 # check_vestings
 
-Fetch current investor vesting status directly from the Safe VestingPool
+Fetch current backer vesting status directly from the Safe VestingPool
 contract on Ethereum mainnet.
 
 This script:
